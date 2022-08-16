@@ -49,9 +49,10 @@ Because the right side of the equation is "0", the equation is implicitly saying
 Another important principle to know is the piling-up lemma which is a principle in linear cryptanalysis to construct linear approximations. The example given is, <i>X1⊕X2=0</i> (a linear expression) and is equivalent to <i>X1=X2;X1⊕X2=1</i> (a affine expression) and is equivalent to <i>X1≠X2</i>.
 <br><br>
 Below is a linear approximation table of the S-box:</p>
-<br><br>
+<br>
 <img>
-![ReadMe3](https://user-images.githubusercontent.com/89617475/184804885-eac79f1c-70e5-46e5-b4aa-9087f2fcec6d.png)
+<img width="549" alt="ReadMe3" src="https://user-images.githubusercontent.com/89617475/184805286-7d262d1c-6240-4276-a9c5-31e2e22dad7d.png">
+
 
 </img>
 <br><br>
